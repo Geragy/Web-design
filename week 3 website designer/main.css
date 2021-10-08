@@ -1,0 +1,13 @@
+
+h1{
+    color:rgb(245, 244, 244);
+    text-align: center; 
+    text-shadow: 4px 4px 4px black;   
+}
+body{
+       background:linear-gradient(90deg, rgb(56, 151, 145) 0%, rgb(67, 185, 93) 50%, rgb(56, 151, 125) 94%);
+}
+
+
+
+
