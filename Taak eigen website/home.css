@@ -1,0 +1,73 @@
+header{
+    margin-top: 0.2rem;
+    text-align: center;
+    font-size: 50px;
+    background: rgb(35, 41, 39);
+    font-family: 'Bangers', cursive;
+    color: cornsilk;
+}
+h1{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'Fugaz One', cursive;
+
+    font-size: 50px;
+}
+
+
+p{
+    font-family: 'Fugaz One', cursive;
+    margin-left: 14rem;
+    margin-right: 14rem;
+    margin-bottom: 3rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    background-color: goldenrod;
+
+}
+
+body{
+   background-image: url(../images/free.jpg);
+   background-repeat: repeat;
+   background-position: center;
+  background-size:contain;
+    
+}
+footer{
+    background-color: goldenrod;
+    height: 100px;
+     text-align: center;
+    
+}
+
+.image1{
+    width: 434px;
+    height: 340px;
+    margin-top: 1rem;
+    padding: 1rem;
+    margin-left: 500px;
+    border: 14px solid rgb(15, 13, 13);
+}
+
+.image2{
+    width: 434px;
+    height: 289.596px;
+    margin-top: 1rem;
+    margin-left: 32rem; 
+    padding: 1rem;
+    border: 14px solid rgb(15, 13, 13);
+}
+.image3{
+    width: 434px;
+    height: 344px;
+    margin-top: 1rem;
+    padding: 1rem;
+    margin-left: 32rem;
+    border: 15px solid rgb(15, 13, 13);
+}
+
+.address{
+    text-align: center;
+    
+}

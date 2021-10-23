@@ -1,0 +1,76 @@
+body{
+    background-image: url(/images/African-background-Stock-Photo--andrii-32529501.jpg);
+}
+.container{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header{
+    background-color: rgb(222, 184, 135);
+    height: 60px;
+    width: 1024px;
+}
+
+nav{
+
+    text-align: center;
+background-color: rgba(46, 41, 31, 0.685);
+height: 40px;
+width: 1024px;
+
+}
+
+main{
+background-color: #c17e2d;
+ width: 1024px;  
+    color:  rgb(17, 16, 13);;
+    text-align: center;
+    padding-top: 8px;
+    padding-left:auto;
+    padding-right: auto;
+    font-family: 'Charm', cursive;
+
+}
+
+footer{
+    background-color: #c17e2d;
+    height: 100px;
+width: 1024px;
+text-align: center;
+
+}
+
+.address{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: rgba(12, 10, 6, 0.945);
+    margin-bottom: 1rem;  
+    margin-top: 0.4rem;
+    font-family: 'FugazOne', cursive;
+}
+a{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+.maps{
+    padding-bottom: 5px;
+}
+
+
+form{
+    text-align: center;
+    font-size: 25px;
+}
+p{
+    text-align: center;
+    text-indent: 10px;
+    
+}
